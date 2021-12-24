@@ -1,4 +1,16 @@
-### Hi there 👋
+### Olá 👋
+_Ícaro M. Crespo_
+
+- Atualmente desenvolvedor estagiário full-stack C# na Lydians Sistemas de Informação
+- Acadêmico de Engenharia de Software na Universidade Federal do Pampa - _Campus_ Alegrete
+- Minhas áreas de interesse são processo, qualidade e arquitetura de software
+- Desenvolvedor JAVA ❤️ há mais de 7 anos
+- Procuro oportunidades para crescer no meio dos tópicos citados acima
+
+> Acompanhe meu portfólio de projetos 💬
+> Contato: icarocrespo@gmail.com | icarocrespo em redes sociais
+
+### Você não sabe que precisa de um engenheiro de software até ter um engenheiro de software
 
 <!--
 **icarocrespo/icarocrespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
