@@ -4,6 +4,7 @@ _Ícaro M. Crespo_
 - Atualmente desenvolvedor estagiário full-stack C# na Lydians Sistemas de Informação
 - Acadêmico de Engenharia de Software na Universidade Federal do Pampa - _Campus_ Alegrete
 - Minhas áreas de interesse são processo, qualidade e arquitetura de software
+- Trabalho com banco de dados e tenho paixão por dados e análise
 - Desenvolvedor JAVA 🖤 há mais de 7 anos
 - Procuro oportunidades para crescer no meio dos tópicos citados acima
 
