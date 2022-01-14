@@ -14,7 +14,7 @@ _Ícaro M. Crespo_
 ### Você não sabe que precisa de um engenheiro de software até ter um engenheiro de software
 
 
-![Alt Text](https://media0.giphy.com/media/aSxvq2jEInSdW/giphy.gif)
+![Alt Text](https://media.giphy.com/media/4CP58gxwbBy2Q/giphy.gif)
 <!--
 **icarocrespo/icarocrespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
