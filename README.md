@@ -1,7 +1,7 @@
 ### Olá 👋
 _Ícaro M. Crespo_
 
-- Atualmente desenvolvedor estagiário full-stack C# na Lydians Sistemas de Informação
+- Associate Developer na ADP Brazil Labs
 - Acadêmico de Engenharia de Software na Universidade Federal do Pampa - _Campus_ Alegrete
 - Minhas áreas de interesse são processo, qualidade e arquitetura de software
 - Trabalho com banco de dados e tenho paixão por dados e análise
