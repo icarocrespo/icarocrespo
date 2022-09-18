@@ -6,7 +6,7 @@ _Ícaro M. Crespo_
 - Minhas áreas de interesse são processo, qualidade e arquitetura de software
 - Trabalho com banco de dados e tenho paixão por dados e análise
 - Desenvolvedor </> JAVA </> há mais de 7 anos
-- Procuro oportunidades para crescer no meio dos tópicos citados acima
+<!-- Procuro oportunidades para crescer no meio dos tópicos citados acima-->
 
 > Acompanhe meu portfólio de projetos 💬
 > Contato: icarocrespo@gmail.com | icarocrespo em redes sociais
