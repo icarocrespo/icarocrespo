@@ -1,17 +1,17 @@
 ### Olá 👋
 _Ícaro M. Crespo_
 
-- Associate Developer na ADP Brazil Labs
-- Acadêmico de Engenharia de Software na Universidade Federal do Pampa - _Campus_ Alegrete
-- Minhas áreas de interesse são processo, qualidade e arquitetura de software
-- Trabalho com banco de dados e tenho paixão por dados e análise
-- Desenvolvedor </> JAVA </> há mais de 7 anos
+- Associate Developer at ADP Brazil Labs
+- Undergratuade Software Engineering student at Federal University of Pampa
+- My focus areas are process, quality and software architecture
+- I also work with databases and I'm enloved by data analytics 
+- </> JAVA </> developer for over 7 years
 <!-- Procuro oportunidades para crescer no meio dos tópicos citados acima-->
 
-> Acompanhe meu portfólio de projetos 💬
-> Contato: icarocrespo@gmail.com | icarocrespo em redes sociais
+> Follow my project portfolio 💬
+> Contact: icarocrespo@gmail.com | icarocrespo at social medias
 
-### Você não sabe que precisa de um engenheiro de software até ter um engenheiro de software
+### You do not know you need a software engineer until you have a software engineer
 
 
 ![Alt Text](https://media.giphy.com/media/4CP58gxwbBy2Q/giphy.gif)
