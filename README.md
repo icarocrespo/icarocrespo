@@ -2,7 +2,8 @@
 _Ícaro M. Crespo_
 
 - Associate Developer at ADP Brazil Labs
-- Undergratuade Software Engineering student at Federal University of Pampa
+- Software Engineer by Federal University of Pampa
+- Student of the Master's in Software Engineering at Federal University of Pampa
 - My focus areas are process, quality and software architecture
 - I also work with databases and I'm enloved by data analytics 
 - </> JAVA </> developer for over 7 years
