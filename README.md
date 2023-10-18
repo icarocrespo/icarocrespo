@@ -1,7 +1,7 @@
-### Olá 👋
+### Hey there 👋
 _Ícaro M. Crespo_
 
-- Associate Developer at ADP Brazil Labs
+- Developer at ADP Brazil Labs
 - Software Engineer by Federal University of Pampa
 - Student of the Master's in Software Engineering at Federal University of Pampa
 - My focus areas are process, quality and software architecture
