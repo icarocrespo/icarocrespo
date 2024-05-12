@@ -3,11 +3,11 @@ _Ícaro M. Crespo_
 
 - Developer and Scrum Master at ADP Brazil Labs
 - Software Engineer by Federal University of Pampa
-- Student of the Master's in Software Engineering at Federal University of Pampa
-- My focus areas are process, quality and software architecture
-- I also work with databases and I'm enloved with data analytics 
-- </> JAVA </> developer for over 7 years
-<!-- Procuro oportunidades para crescer no meio dos tópicos citados acima-->
+- Master student in Software Engineering at Federal University of Pampa
+- My focus areas are process improvement, quality assesment and people management
+- I also enjoy working with database concepts, specially based in SQL
+- </> JAVA </> developer for over than 7 years
+
 
 > Follow my project portfolio 💬
 > Contact: icarocrespo@gmail.com | icarocrespo at social medias
