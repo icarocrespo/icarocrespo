@@ -1,13 +1,12 @@
 ### Hey there 👋
 _Ícaro M. Crespo_
 
-- Developer at ADP Brazil Labs
+- Ex-Developer at ADP Brazil Labs
 - Management and Agile enthusiast
-- Software Engineer by Federal University of Pampa
-- Master student in Software Engineering at Federal University of Pampa
+- Master student and Software Engineer by Federal University of Pampa
 - My focus areas are process improvement, quality assesment and people management
-- I also enjoy working with database concepts, specially based in SQL
-- </> JAVA </> developer for over than 7 years
+- I also enjoy working with architectural concepts and how to connect a software to human necessities
+- </> JAVA </> developer for over than 8 years
 
 
 > Follow my project portfolio 💬
