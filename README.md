@@ -8,6 +8,7 @@ _Ícaro M. Crespo_
 - I also enjoy working with architectural concepts and how to connect a software to human necessities
 - </> JAVA </> developer for over than 8 years
 
+> [My Curriculum](https://github.com/user-attachments/files/30555915/Icaro.Crespo.-.Curriculum.pdf)
 
 > Follow my project portfolio 💬
 > Contact: icarocrespo@gmail.com | icarocrespo at social medias
