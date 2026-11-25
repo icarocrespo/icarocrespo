@@ -1,7 +1,7 @@
 ### Hey there 👋
 _Ícaro M. Crespo_
 
-- Ex-Developer at ADP Brazil Labs
+- Developer at AI/R - Livelo
 - Management and Agile enthusiast
 - Master student and Software Engineer by Federal University of Pampa
 - My focus areas are process improvement, quality assesment and people management
